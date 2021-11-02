@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [CrescentLang](https://github.com/camdenorrb/CrescentLang)
+- 📫 Discord: [MooCow9M#5253](https://discord.com/users/264468086323675139)
+
+### Setup
+- 2 Custom PCs and 2 laptops
+- Dual boot [Gentoo](https://www.gentoo.org/) and [Windows 11](https://www.microsoft.com/en-us/windows/get-windows-11)
+- [Intellij](https://www.jetbrains.com/idea/) and other [Jetbrains tools](https://www.jetbrains.com/lp/toolbox/)
