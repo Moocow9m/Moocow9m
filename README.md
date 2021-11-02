@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [CrescentLang](https://github.com/camdenorrb/CrescentLang)
+- 🔭 I’m currently working on [CrescentLang](https://github.com/camdenorrb/CrescentLang) and [PTIR](https://github.com/Moocow9m/PoderTechIR)
 - 📫 Discord: [MooCow9M#5253](https://discord.com/users/264468086323675139)
 
 ### Setup
